@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Md Nafiz Ishtiaque Mahee Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Prospective Ph.D. Student"
+  location         : "Bangladesh"
+  employer         : "BRAC University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "md.nafiz.ishtiaque.mahee@g.bracu.ac.bd" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
