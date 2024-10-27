@@ -9,7 +9,12 @@ redirect_from:
 
 I am currently working as a lecturer at BRAC University, Dhaka, Bangladesh. Previously completed my Bachelor's with Highest Distinction from here.
 
-My research interests are Computer Vision, Digital Signal & Image Processing, Machine Learning in Healthcare and Data science.
+My research interests are 
+
+*Computer Vision
+*Digital Signal & Image Processing
+*Machine Learning in Healthcare
+*Data science.
 
 I am actively searching for a Ph.D. opportunity that aligns with my research interests.
 
