@@ -13,4 +13,8 @@ My research interests are Computer Vision, Digital Signal & Image Processing, Ma
 
 I am actively searching for a Ph.D. opportunity that aligns with my research interests.
 
+# EDUCATION
 
+**Bachelor of Science in Computer Science and Engineering [Spring 2017 - Fall 2020]**
+[BRAC University](www.bracu.ac.bd)
+CGPA: 3.89/4.00
