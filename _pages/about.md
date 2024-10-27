@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a lecturer at BRAC University, Dhaka, Bangladesh. Previously completed my Bachelor's with Highest Distinction from here.
+I am currently working as a lecturer at [BRAC University](www.bracu.ac.bd) , Dhaka, Bangladesh. Previously completed my Bachelor's with Highest Distinction from here.
 
 My research interests are 
 
