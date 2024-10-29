@@ -44,6 +44,13 @@ Supervised by: Dr Mohammad Zavid Parvez, Assistant Professor, Dept. of CSE, BRAC
 **BI Tools:** Power BI, QlikSense, QlikView  
 **Document Preparation and Illustration:** MS Office, LaTeX  
 **Web Programming:** MySQL, HTML5, CSS  
-**Library:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, JOGL
+**Library:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, JOGL  
 **Others:** MySQL, Proteus Design Suite, Webots,Mathematica 
+
+# Relevant Academic Coursework
+
+• Artificial Intelligence • Neural Networks • Linear Algebra and Fourier Analysis
+• Elements of Statistics and Probability • Modern Probability Theory and Stochastic Processes
+• Data Structures • Algorithms • Computer Graphics • Operating Systems • Compiler Design
+• Numerical Methods • Database Systems • Software Engineering • System Analysis and Design
  
