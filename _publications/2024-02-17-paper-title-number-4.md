@@ -3,10 +3,10 @@ title: "Neural Network Architecture for the Classification of Alzheimer’s Dise
 collection: publications
 category: conferences
 permalink: /publication/2021-12-21-alzheimer’s-disease
-excerpt:
+excerpt: 'Alzheimer’s Disease detection using brain MRI'
 date: 2021-12-21
-venue: 'Auckland, New Zealand'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+venue: 'TENCON 2021-2021 IEEE Region 10 Conference, Auckland, New Zealand'
+paperurl: '/files/research paper 1-Mahee-Md Nafiz Ishtiaque.pdf'
 citation: 'Mahbub, R., Azim, M. A., Mahee, N. I., Sanjid, Z. I., Reza, K. M., & Parvez, M. Z.'
 ---
 
