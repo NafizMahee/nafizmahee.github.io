@@ -24,7 +24,7 @@ I am actively searching for a Ph.D. opportunity that aligns with my research int
 [BRAC University](www.bracu.ac.bd)  
 CGPA: 3.89/4.00 [Highest Distinction]
 
-**B. Sc. Thesis**  
-Design and Evaluation of Convolutional Neural Network for Detection of Alzheimer’s Disease Using MRI Data
+B. Sc. Thesis  
+Design and Evaluation of Convolutional Neural Network for Detection of Alzheimer’s Disease Using MRI Data  
 Supervised by: Dr Mohammad Zavid Parvez, Assistant Professor, Dept. of CSE, BRAC University
 
