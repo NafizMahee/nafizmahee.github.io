@@ -11,10 +11,10 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Work Experiences"
-    url: /works/  
+  #- title: "Work Experiences"
+  #  url: /works/  
 
-  - title: "Teaching"
+  - title: "Work Experiences"
     url: /teaching/    
     
   #- title: "Portfolio"
