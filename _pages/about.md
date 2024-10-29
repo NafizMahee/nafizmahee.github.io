@@ -20,11 +20,11 @@ I am actively searching for a Ph.D. opportunity that aligns with my research int
 
 # EDUCATION
 
-**Bachelor of Science in Computer Science and Engineering [Spring 2018- Spring 2022]**  
+## Bachelor of Science in Computer Science and Engineering [Spring 2018- Spring 2022]  
 [BRAC University](www.bracu.ac.bd)  
 CGPA: 3.89/4.00 [Highest Distinction]
 
-B. Sc. Thesis  
+## B. Sc. Thesis  
 Design and Evaluation of Convolutional Neural Network for Detection of Alzheimer’s Disease Using MRI Data  
 Supervised by: Dr Mohammad Zavid Parvez, Assistant Professor, Dept. of CSE, BRAC University
 
