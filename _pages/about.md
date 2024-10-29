@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a lecturer at [BRAC University](www.bracu.ac.bd) , Dhaka, Bangladesh. Previously completed my Bachelor's with Highest Distinction from here.
+I am currently working as an adjunct lecturer at [BRAC University](www.bracu.ac.bd) , Dhaka, Bangladesh. Previously completed my Bachelor's with Highest Distinction from here.
 
 My research interests are 
 
@@ -20,7 +20,7 @@ I am actively searching for a Ph.D. opportunity that aligns with my research int
 
 # EDUCATION
 
-##Bachelor of Science in Computer Science and Engineering [Spring 2018- Spring 2022]  
+## Bachelor of Science in Computer Science and Engineering [Spring 2018- Spring 2022]  
 [BRAC University](www.bracu.ac.bd)  
 CGPA: 3.89/4.00 [Highest Distinction]
 
