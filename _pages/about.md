@@ -43,4 +43,7 @@ Supervised by: Dr Mohammad Zavid Parvez, Assistant Professor, Dept. of CSE, BRAC
 **Programming Language:** Python, Java, C++, Verilog HDL, Assembly Language (8086), Microcontroller Programming  
 **BI Tools:** Power BI, QlikSense, QlikView  
 **Document Preparation and Illustration:** MS Office, LaTeX  
-**Others:** MySQL, Proteus Design Suite, Webots  
+**Web Programming:** MySQL, HTML5, CSS  
+**Library:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, JOGL
+**Others:** MySQL, Proteus Design Suite, Webots,Mathematica 
+ 
