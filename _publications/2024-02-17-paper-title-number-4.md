@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Neural Network Architecture for the Classification of Alzheimer’s Disease from Brain MRI"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+permalink: /publication/2021-12-21-alzheimer’s-disease
+excerpt:
+date: 2021-12-21
+venue: 'Auckland, New Zealand'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Mahbub, R., Azim, M. A., Mahee, N. I., Sanjid, Z. I., Reza, K. M., & Parvez, M. Z.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Alzheimer’s Disease (AD) is a neurological condition in which the decline of brain cells causes memory loss and cognitive decline. Various Neuroimaging techniques have been developed to diagnose AD; among those, Magnetic Resonance Imaging (MRI) is one of the most prominent ones. Historically, expert radiologists were solely responsible for making decisions of a patient’s AD situation by manually analyzing brain MR images. However, the recent progress in medical image analysis using deep learning especially has automated this task significantly. Although the state-of-theart architectures have achieved human-level performance in classifying AD images from Normal Control (NC), they often require predefined Regions of interest as a basis for feature extraction. This condition not only requires specialized domain knowledge of the human brain but also makes the overall design complicated. In this paper, we designed a 14 layer Neural network architecture that can facilitate AD diagnosis without being dependent on any neurological assumption. The network was tested over ADNI-1, a benchmark MRI dataset for AD research, and found an accuracy of 87.06% (AUC = 0.93).
