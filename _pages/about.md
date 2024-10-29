@@ -45,7 +45,7 @@ Supervised by: Dr Mohammad Zavid Parvez, Assistant Professor, Dept. of CSE, BRAC
 **Document Preparation and Illustration:** MS Office, LaTeX  
 **Web Programming:** MySQL, HTML5, CSS  
 **Library:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, JOGL  
-**Others:** MySQL, Proteus Design Suite, Webots,Mathematica 
+**Others:** Proteus Design Suite, Webots,Mathematica 
 
 # Relevant Academic Coursework
 
