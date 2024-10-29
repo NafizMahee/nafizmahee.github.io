@@ -36,4 +36,11 @@ Supervised by: Dr Mohammad Zavid Parvez, Assistant Professor, Dept. of CSE, BRAC
 [**VC’s List Award:**](https://www.bracu.ac.bd/academics/office-registrar/policies-and-procedures/academic-standings-and-honors) Academic Honor by BRAC University, for attaining a GPA of at least 3.9 in a semester (Achieved 5 times)  
 [**DEAN’s List Award:**](https://www.bracu.ac.bd/academics/office-registrar/policies-and-procedures/academic-standings-and-honors) Academic Honor by BRAC University, for attaining a GPA of 3.75-3.9 in a semester (Achieved 3 times)  
 [**University Merit Scholarship:**](https://www.bracu.ac.bd/admission/scholarships-financial-aid) Academic Honor by BRAC University, for academic excellence at undergraduate study. A scholarship was provided on the tution fees  
-[**IEEE Achivement:**](/files/IEEE Achievement certificate Mohammad Nafiz Mahee.pdf) winner of the Review on papers subcategory under the contests of the academic category during Unification Competition 2020
+[**IEEE Achivement:**](/files/IEEE Achievement certificate Mohammad Nafiz Mahee.pdf) winner of the Review on papers subcategory under the contests of the academic category during Unification Competition 2020  
+
+# TECHNICAL SKILLS  
+
+**Programming Language:** Python, Java, C++, Verilog HDL, Assembly Language (8086), Microcontroller Programming  
+**BI Tools:** Power BI, QlikSense, QlikView  
+**Document Preparation and Illustration:** MS Office, LaTeX  
+**Others:** MySQL, Proteus Design Suite, Webots  
