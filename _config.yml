@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile.png"
   name             : "Md Nafiz Ishtiaque Mahee"
   pronouns         : # example: "she/her"  
   bio              : "Prospective Ph.D. Student"
