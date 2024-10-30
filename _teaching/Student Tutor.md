@@ -8,13 +8,16 @@ date: 2021-10-01
 location: "City, Country"
 ---
 
-Worked as a student tutor at the CSE department, BRAC University
+Worked as a student tutor at the CSE department, [BRAC University](www.bracu.ac.bd) 
 
-Heading 1
+Courses Taught
 ======
+CSE 230: Discrete Mathematics  
+CSE 360: Computer Interfacing  
 
-Heading 2
+Responsibilities
 ======
-
-Heading 3
-======
+Attended Lab Classes and assisted the Faculty Members to conduct the Classes.  
+Graded Quiz and Assignment scripts.  
+Provided 15 Hours / Week as Consultation Hours for Students and assisted them with Problem Solving and Exam Preparation.  
+Selected Learning Materials, Textbooks and Equipment to Facilitate Tutoring and Helped Students to develop Good Study Skills and Habits.
