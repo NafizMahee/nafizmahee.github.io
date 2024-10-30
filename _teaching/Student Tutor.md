@@ -2,9 +2,9 @@
 title: "Student Tutor"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/student-tutor
 venue: "Department of CSE, Brac University"
-date: October 2021 – May 2022
+date: 2021-10-01
 location: "City, Country"
 ---
 
