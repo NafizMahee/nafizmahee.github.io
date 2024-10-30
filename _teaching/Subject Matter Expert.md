@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Subject Matter Expert"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: ""
+permalink: /teaching/Subject-Matter-Expert
+venue: "Shikho Technologies Bangladesh Ltd"
+date: 2021-23-01
+location: "Dhaka, Bangladesh"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
