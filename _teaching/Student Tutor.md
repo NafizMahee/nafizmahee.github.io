@@ -8,7 +8,7 @@ date: 2021-10-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Worked as a student tutor at the CSE department, BRAC University
 
 Heading 1
 ======
