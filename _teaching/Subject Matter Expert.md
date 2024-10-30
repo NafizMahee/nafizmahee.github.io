@@ -7,14 +7,10 @@ venue: "Shikho Technologies Bangladesh Ltd"
 date: 2021-07-01
 location: "Dhaka, Bangladesh"
 ---
-Worked as a Subject Matter Expert for the ICT team, SHIKHO, of one of the biggest ed-tech company in Bangladesh.  
+Worked as a Subject Matter Expert for the ICT team,of [Shikho](https://shikho.com/), one of the biggest ed-tech company in Bangladesh.  
 *July 2021 – January 2022*
 
 Responsibilities
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+- Creating and teaching academic contents for students of grade 9-12  
+- Script Writing for academic contents
