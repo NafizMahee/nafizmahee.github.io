@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Student Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Department of CSE, Brac University"
+date: October 2021 – May 2022
 location: "City, Country"
 ---
 
