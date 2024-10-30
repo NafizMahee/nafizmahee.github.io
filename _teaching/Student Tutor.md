@@ -18,7 +18,7 @@ CSE 360: Computer Interfacing
 
 Responsibilities
 ======
-Attended Lab Classes and assisted the Faculty Members to conduct the Classes.  
-Graded Quiz and Assignment scripts.  
-Provided 15 Hours / Week as Consultation Hours for Students and assisted them with Problem Solving and Exam Preparation.  
-Selected Learning Materials, Textbooks and Equipment to Facilitate Tutoring and Helped Students to develop Good Study Skills and Habits.
+- Attended Lab Classes and assisted the Faculty Members to conduct the Classes.  
+- Graded Quiz and Assignment scripts.  
+- Provided 15 Hours / Week as Consultation Hours for Students and assisted them with Problem Solving and Exam Preparation.  
+- Selected Learning Materials, Textbooks and Equipment to Facilitate Tutoring and Helped Students to develop Good Study Skills and Habits.
