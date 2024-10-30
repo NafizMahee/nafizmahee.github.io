@@ -8,7 +8,7 @@ date: 2021-10-01
 location: "City, Country"
 ---
 
-Worked as a student tutor at the CSE department, [BRAC University](www.bracu.ac.bd) 
+Worked as a student tutor at the CSE department, [BRAC University](www.bracu.ac.bd)<span style="float: right;">*October 2021 – May 2022*</span>.
 
 Courses Taught
 ======
