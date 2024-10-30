@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/Subject-Matter-Expert
 venue: "Shikho Technologies Bangladesh Ltd"
-date: 2021-23-01
+date: 2021-07-01
 location: "Dhaka, Bangladesh"
 ---
 
