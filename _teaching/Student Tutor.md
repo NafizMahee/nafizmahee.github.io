@@ -13,8 +13,8 @@ Worked as a student tutor at the CSE department, [BRAC University](www.bracu.ac.
 
 Courses Taught
 ======
-CSE 230: Discrete Mathematics  
-CSE 360: Computer Interfacing  
+- CSE 230: Discrete Mathematics  
+- CSE 360: Computer Interfacing  
 
 Responsibilities
 ======
