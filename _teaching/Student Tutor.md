@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/student-tutor
 venue: "Department of CSE, Brac University"
-date: 2021-10-01
+date: 
 location: "City, Country"
 ---
 
