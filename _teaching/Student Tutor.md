@@ -4,11 +4,12 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/student-tutor
 venue: "Department of CSE, Brac University"
-date: 
+date: 2021-10-01
 location: "City, Country"
 ---
 
-Worked as a student tutor at the CSE department, [BRAC University](www.bracu.ac.bd)<span style="float: right;">*October 2021 – May 2022*</span>.
+Worked as a student tutor at the CSE department, [BRAC University](www.bracu.ac.bd)  
+*October 2021 – May 2022*
 
 Courses Taught
 ======
