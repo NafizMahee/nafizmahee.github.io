@@ -7,7 +7,6 @@ venue: "Department of CSE, Brac University"
 date: 2024-01-01
 location: "Dhaka, Bangladesh"
 ---
-
 Currently working as an adjunct lecturer at the CSE department, [BRAC University](www.bracu.ac.bd)  
 *January 2024 – Present*
 
