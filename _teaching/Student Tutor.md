@@ -5,7 +5,7 @@ type: "Undergraduate courses"
 permalink: /teaching/student-tutor
 venue: "Department of CSE, Brac University"
 date: 2021-10-01
-location: "City, Country"
+location: "Dhaka, Bangladesh"
 ---
 
 Worked as a student tutor at the CSE department, [BRAC University](www.bracu.ac.bd)  
