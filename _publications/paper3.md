@@ -8,7 +8,7 @@ date: 2024-07-01
 venue: 'Data In Brief'
 slidesurl: 
 paperurl: 
-citation: Md. Zubair, **Md. Nafiz Ishtiaque Mahee**, Khondaker Masfiq Reza, Md. Shahidul Salim, and Nasim Ahmed
+citation: Md. Zubair, __Md. Nafiz Ishtiaque Mahee__, Khondaker Masfiq Reza, Md. Shahidul Salim, and Nasim Ahmed
 ---
 
 The dataset at hand is a unique resource, officially procured from the Bangladesh Meteorological Department, the sole government institution that diligently monitors weather through 35 strategically placed weather stations across the nation. This dataset is a treasure trove of actual data spanning several decades, from the inception of each weather station to the present. It has been meticulously restructured and processed into four key weather parameters, presented in a highly organized and accessible format. This format not only facilitates its use in the machine-learning training process but also opens up avenues for its application in climate research, weather forecasting, and a myriad of other statistical and machine-learning applications.
