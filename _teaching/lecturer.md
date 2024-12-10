@@ -2,7 +2,7 @@
 title: "Lecturer"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/student-tutor
+permalink: /teaching/lecturer-brac
 venue: "Department of CSE, Brac University"
 date: 2024-01-01
 location: "Dhaka, Bangladesh"
