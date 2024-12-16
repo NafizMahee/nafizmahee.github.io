@@ -1,5 +1,5 @@
 ---
-title: "Climate Data Dynamics: A High-Volume Real World Structured Weather Dataset (Under review)"
+title: "Climate Data Dynamics: A High-Volume Real World Structured Weather Dataset"
 collection: publications
 category: manuscripts
 permalink: /publication/weather-dataset
